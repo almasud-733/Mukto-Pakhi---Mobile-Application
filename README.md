@@ -22,4 +22,4 @@ The final round and Civic Tech Innovation Expo took place on 12 April 2026 at th
 
 For its strong social impact and technical merit, Mukto Pakhi received national recognition and was awarded BDT 150,000 Taka funding from UNDP Bangladesh. Some sources also highlight it securing a Top 3 position among the civic tech solutions presented.
 
-![image alt]([https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/672687627_1387097310108301_1528302437768894160_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeGia86R2iM56COMxT0Aw1Kk_4vuEozXLUL_i-4SjNctQrjq4q9m40u-Qbvlm3rrmjp5GAEtFxQPYmpMfHNgpewT&_nc_ohc=deNMqjx5PH8Q7kNvwGwKUkY&_nc_oc=Adp__pO7DQjye6kthJiVJffQfotQvcOsaKcNjXI0kOCWwHPOyAkOLLUtxGv3ygGheNk&_nc_zt=23&_nc_ht=scontent.fdac138-1.fna&_nc_gid=S-A1LVlM4wgFDFuurZ3lfw&_nc_ss=7b2a8&oh=00_Af53M5NggV3IuADk_nCaN8kPhg82kb3MrMEf8ah8tkGZPg&oe=69FAA8CA](https://github.com/almasud-733/Mukto-Pakhi---Android-Application/blob/main/Mukto%20Pakhi.jpg?raw=true))
+<img width="3072" height="4096" alt="Mukto Pakhi" src="https://github.com/user-attachments/assets/9d00a7e0-c59d-4789-918d-cd024ec2472c" />
